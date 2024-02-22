@@ -1,2 +1,5 @@
 # Homework-2
-#this is my first commit
+String exact pattern matching algorithms in strings
+
+Sliding window matching algorithm 
+  
